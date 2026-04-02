@@ -1,0 +1,28 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "下班摇摇吃",
+        "navigationBarBackgroundColor": "#f8f1e7",
+        "navigationBarTextStyle": "black"
+      }
+    },
+    {
+      "path": "pages/webview/index",
+      "style": {
+        "navigationBarTitleText": "平台搜索",
+        "navigationBarTextStyle": "black"
+      }
+    }
+  ],
+  "globalStyle": {
+    "backgroundColor": "#f8f1e7",
+    "navigationBarBackgroundColor": "#f8f1e7",
+    "navigationBarTitleText": "下班摇摇吃",
+    "navigationBarTextStyle": "black"
+  }
+}
+
+
+

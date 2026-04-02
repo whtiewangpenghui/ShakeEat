@@ -1,0 +1,16 @@
+package com.wdd.shakeeat.module.food.dto;
+
+import jakarta.validation.Valid;
+import jakarta.validation.constraints.NotEmpty;
+import java.util.List;
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
+public class FoodImportRequest {
+
+    @Valid
+    @NotEmpty(message = "items 不能为空")
+    private List<FoodImportItemRequest> items;
+}

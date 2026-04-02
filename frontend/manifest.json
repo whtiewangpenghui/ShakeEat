@@ -1,0 +1,24 @@
+{
+  "name": "下班摇摇吃",
+  "appid": "__UNI__SHAKEEAT",
+  "description": "晚饭推荐与菜单管理小程序",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "app-plus": {
+    "usingComponents": true
+  },
+  "mp-weixin": {
+    "appid": "wxc979fc694b191a95",
+    "setting": {
+      "urlCheck": false,
+      "es6": true,
+      "minified": true
+    },
+    "usingComponents": true
+  },
+  "h5": {
+    "title": "下班摇摇吃"
+  }
+}
+
